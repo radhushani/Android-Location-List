@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Map Location List</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Location List</string>
+    <string name="second_fragment_label">Enter Location</string>
+    <string name="maps_fragment_label">Map</string>
+</resources>
